@@ -50,6 +50,8 @@ My work spans backend development, REST APIs, databases, cloud infrastructure, C
 
 I’m focused on becoming a versatile software engineer capable of building, deploying, and maintaining reliable applications—from writing backend services to automating infrastructure and delivering applications on the cloud.
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🗳️ NRI Remote Voting System
