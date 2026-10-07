@@ -173,8 +173,6 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 [![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-l4of.vercel.app/#/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohammedabubakkar/)
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=imohammedabubakkar&label=PROFILE%20VIEWS&color=203A43&style=for-the-badge"/>
 
 </div>
