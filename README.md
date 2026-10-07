@@ -179,6 +179,14 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 
 </div>
 
+<div align="center">
+  
+<br/><br/>
+
+> *"Learn with purpose. Build with discipline. Deliver with confidence."*
+
+<br/>
+
 
 
 
