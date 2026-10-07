@@ -163,4 +163,23 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 
 </div>
 
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedabubakkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/imohammedabubakkar)
+[![Gmail](https://img.shields.io/badge/Gmail-15803D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedabubakkar2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-l4of.vercel.app/#/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohammedabubakkar/)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=imohammedabubakkar&label=PROFILE%20VIEWS&color=203A43&style=for-the-badge"/>
+
+</div>
+
+
+
+
 
