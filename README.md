@@ -44,6 +44,8 @@ Goal:
 • Build scalable and production-ready applications
 • Prepare for Software Development Engineer roles
 ```
+<br>
+
 I build production-ready applications with a focus on scalability, performance, and maintainability. As a final-year CSE student, I specialize in Java Full Stack and MERN development, while building strong expertise in AWS Cloud and DevOps.
 
 My work spans backend development, REST APIs, databases, cloud infrastructure, CI/CD, containerization, and deployment. Through internships and real-world application deployments, I’ve worked on systems involving user registration workflows, payment integrations, and end-to-end application delivery.
@@ -146,3 +148,16 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=imohammedabubakkar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=e5e7eb&ring_color=22c55e&include_all_commits=true&count_private=true" height="172"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohammedabubakkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=e5e7eb&langs_count=6&hide=python,powershell,ejs" height="172"/>
+
+<img src="https://streak-stats.demolab.com?user=imohammedabubakkar&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=4ade80&currStreakLabel=22c55e&sideLabels=e5e7eb&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" width="480"/>
+
+</div>
+
+
