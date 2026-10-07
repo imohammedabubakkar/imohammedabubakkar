@@ -101,6 +101,19 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 
 ---
 
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+![NPTEL](https://img.shields.io/badge/NPTEL%20-Cloud%20Computing-8AB4F8?style=for-the-badge&logo=devpost&logoColor=white)
+![GOOGLE CLOUD](https://img.shields.io/badge/GOOGLE%20CLOUD%20-CYBER%20SECURITY%20-8AB4F8?style=for-the-badge&logo=devpost&logoColor=white)
+![COURSERA](https://img.shields.io/badge/COURSERA%20-AWS%20CLOUD%20PRACTITIONER%20CERTIFICATE%20-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HCL GUVI](https://img.shields.io/badge/HCL%20GUVI%20-FULL%20STACK%20CERTIFICATES%20IN%20(MERN)-8AB4F8?style=for-the-badge&logo=googlemeet&logoColor=white)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
