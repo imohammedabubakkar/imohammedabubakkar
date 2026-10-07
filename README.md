@@ -187,6 +187,14 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 
 <br/>
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BFFF&height=150&width=100%section=footer"/>
+
+<div align="center">
+<sub>From <a href="https://github.com/imohammedabubakkar"><b>MOHAMMED ABUBAKKAR I</b></a> — built with Intent.</sub>
+</div>
+
 
 
 
