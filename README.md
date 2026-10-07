@@ -16,8 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=imohammedabubakkar&label=PROFILE%20VIEWS&color=203A43&style=for-the-badge"/>
 </div>
 
----
-
 ## 🧬 About Me
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -51,8 +49,6 @@ I build production-ready applications with a focus on scalability, performance, 
 My work spans backend development, REST APIs, databases, cloud infrastructure, CI/CD, containerization, and deployment. Through internships and real-world application deployments, I’ve worked on systems involving user registration workflows, payment integrations, and end-to-end application delivery.
 
 I’m focused on becoming a versatile software engineer capable of building, deploying, and maintaining reliable applications—from writing backend services to automating infrastructure and delivering applications on the cloud.
-
----
 
 ## 🚀 Featured Projects
 
@@ -99,8 +95,6 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 
 <br/>
 
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -111,8 +105,6 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 ![HCL GUVI](https://img.shields.io/badge/HCL%20GUVI%20-FULL%20STACK%20CERTIFICATES%20IN%20(MERN)-8AB4F8?style=for-the-badge&logo=googlemeet&logoColor=white)
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -159,8 +151,6 @@ I’m focused on becoming a versatile software engineer capable of building, dep
 <img src="https://img.shields.io/badge/Cloud%20Computing-4B8BBE?style=for-the-badge"/>
 
 </div>
-
----
 
 ## 📊 GitHub Stats
 
