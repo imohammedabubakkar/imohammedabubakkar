@@ -49,3 +49,50 @@ I build production-ready applications with a focus on scalability, performance, 
 My work spans backend development, REST APIs, databases, cloud infrastructure, CI/CD, containerization, and deployment. Through internships and real-world application deployments, I’ve worked on systems involving user registration workflows, payment integrations, and end-to-end application delivery.
 
 I’m focused on becoming a versatile software engineer capable of building, deploying, and maintaining reliable applications—from writing backend services to automating infrastructure and delivering applications on the cloud.
+
+## 🚀 Featured Projects
+
+### 🗳️ NRI Remote Voting System
+**Secure Remote Voting · Full-Stack Web Application**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Vercel` `Render`
+
+- 🚀 Web-based remote voting system for eligible Indian citizens residing abroad
+- 🔐 Separate user and admin authentication with voter registration workflows
+- ⚙️ Voting interface with voter verification and vote confirmation mechanisms
+- 📊 Admin dashboard for voter management and election-result monitoring
+  
+🔗 [nri-voting-6grf-blue.vercel.app](https://nri-voting-6grf-blue.vercel.app)
+
+<br/>
+
+### ☁️ CloudDeployX
+**Cloud-Native Application Deployment & Monitoring Platform**
+
+`java` `Spring Boot` `React.js` `PostgreSQL` `Docker` `Kubernetes` `AWS`
+
+- 🚀 Deploy and monitor cloud-native applications on AWS
+- 🔐 Secure authentication and REST APIs using Spring Boot & JWT
+- 🐳 Containerized applications with Docker and orchestrated using Kubernetes
+- ⚙️ Automated CI/CD pipelines using GitHub Actions and Terraform
+- 📊 Application monitoring with scalable cloud infrastructure.
+
+🔗 [cloud-deploy-one.vercel.app](https://cloud-deploy-one.vercel.app)
+
+<br/>
+
+### 💳 FinTrack – Fraud Detection System
+**Financial Transaction Fraud Detection Platform**
+
+`Java` `Spring Boot` `React.js` `PostgreSQL` `Kafka` `Redis` `Docker`
+
+- 🚀 Full-stack financial transaction platform with React.js, Spring Boot & REST APIs
+- 🔐 JWT authentication, RBAC & Kafka-based real-time fraud detection
+- ⚙️ PostgreSQL & Redis for reliable data storage, caching & fast transaction processing
+- 🐳 Dockerized microservices with CI/CD automation using GitHub Actions
+
+🔗 [fin-track-two-self.vercel.app](https://fin-track-two-self.vercel.app/)
+
+<br/>
+
+---
